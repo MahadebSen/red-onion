@@ -8,15 +8,21 @@ const Header = () => {
     <div className="flex items-center justify-between mx-5 my-2">
       <div>
         <Link to="/home">
-          <img className="w-32 mx-5" src={logo2} alt="" />
+          <img className="w-32 mx-8" src={logo2} alt="" />
         </Link>
       </div>
       <div className="flex items-center">
         <img className="my-5 mx-4" src={cart} alt="" />
-        <Link className="my-5 mx-4" to="/login">
+        <Link
+          className="my-3 py-1 px-6 font-semibold hover:bg-red-600 hover:text-slate-200 rounded-full"
+          to="/login"
+        >
           Login
         </Link>
-        <Link className="my-5 mx-4" to="/signup">
+        <Link
+          className="my-3 py-1 px-4 font-semibold hover:bg-red-600 hover:text-slate-200 rounded-full"
+          to="/signup"
+        >
           Sign up
         </Link>
       </div>

@@ -1,0 +1,44 @@
+[
+  {
+    "name": "Healthy Meal Plan",
+    "brief": "How we dream about our future",
+    "description": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here'.",
+    "price": "23.99",
+    "image": "../../../src/images/lunch/lunch1.png"
+  },
+  {
+    "name": "Fried Chicken Bento",
+    "brief": "How we dream about our future",
+    "description": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here'.",
+    "price": "9.99",
+    "image": "../../../src/images/lunch/lunch2.png"
+  },
+  {
+    "name": "Tarragon-Rubbed-Salmon",
+    "brief": "How we dream about our future",
+    "description": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here'.",
+    "price": "6.99",
+    "image": "../../../src/images/lunch/lunch3.png"
+  },
+  {
+    "name": "Indian Lunch",
+    "brief": "How we dream about our future",
+    "description": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here'.",
+    "price": "8.99",
+    "image": "../../../src/images/lunch/lunch4.png"
+  },
+  {
+    "name": "Beef Steak",
+    "brief": "How we dream about our future",
+    "description": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here'.",
+    "price": "15.99",
+    "image": "../../../src/images/lunch/lunch5.png"
+  },
+  {
+    "name": "Honey-Soy-Glazed Salmon with Peppers",
+    "brief": "How we dream about our future",
+    "description": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here'.",
+    "price": "7.99",
+    "image": "../../../src/images/lunch/lunch6.png"
+  }
+]

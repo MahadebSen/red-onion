@@ -1,0 +1,50 @@
+[
+  {
+    "id": "a11",
+    "name": "Bagel and cream cheese",
+    "brief": "How we dream about our future",
+    "description": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here'.",
+    "price": "6.99",
+    "image": "https://i.ibb.co/Y8mRw8c/breakfast1.png"
+  },
+  {
+    "id": "b22",
+    "name": "Breakfast Sandwich",
+    "brief": "How we dream about our future",
+    "description": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here'.",
+    "price": "9.99",
+    "image": "https://i.ibb.co/zRZhVJb/breakfast2.png"
+  },
+  {
+    "id": "c33",
+    "name": "Baked Chicken",
+    "brief": "How we dream about our future",
+    "description": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here'.",
+    "price": "10.99",
+    "image": "https://i.ibb.co/124K0jM/breakfast3.png"
+  },
+  {
+    "id": "d44",
+    "name": "Eggs Benedict",
+    "brief": "How we dream about our future",
+    "description": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here'.",
+    "price": "8.99",
+    "image": "https://i.ibb.co/G7WHHBC/breakfast4.png"
+  },
+  {
+    "id": "e55",
+    "name": "Toast Croissant Fried egg",
+    "brief": "How we dream about our future",
+    "description": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here'.",
+    "price": "19.99",
+    "image": "https://i.ibb.co/dkrvH1X/breakfast5.png"
+  },
+  {
+    "id": "f66",
+    "name": "Full Breakfast Fried Egg Toast Brunch",
+    "brief": "How we dream about our future",
+    "description": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here'.",
+    "price": "3.99",
+    "image": "https://i.ibb.co/GWFms3x/breakfast6.png"
+  }
+]
